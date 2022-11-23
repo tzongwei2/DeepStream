@@ -1,0 +1,1 @@
+docker run --gpus all -it --rm -v /home/jon/Desktop/DeepStream/:/opt/nvidia/deepstream/deepstream/sources/project -w /opt/nvidia/deepstream/deepstream/sources/project nvcr.io/nvidia/deepstream:6.1.1-devel
