@@ -1,4 +1,4 @@
-Blog Post: https://medium.com/@tzongwei2/nvidia-deepstream-gstreamer-pipeline-in-python-simplified-507907a91c6e
+Blog Post: https://medium.com/@tzongwei2/nvidia-deepstream-gstreamer-pipeline-in-python-simplified-507907a91c6e<br>
 NVIDIA's Deepstream Sample Python Apps here: https://github.com/NVIDIA-AI-IOT/deepstream_python_apps
 
 * Deepstream1 - Simple deepstream pipeline using single line parse launch 
